@@ -2,12 +2,12 @@
 An application to read, share, upload, and review e-books.
 
 Academic Project at The City College of New York
-Course: Software Engineering
-Term: Fall 2015
-Team Members: Shawn Mathew and Anthony Tan
+  Course: Software Engineering
+  Term: Fall 2015
+  Team Members: Shawn Mathew and Anthony Tan
 
 Three types of users:
-1.	Super-users (SU): all RU’s allowed operations, book approvals/updates and complaints processing, set up the points for different reading durations.
+Super-users (SU): all RU’s allowed operations, book approvals/updates and complaints processing, set up the points for different reading durations.
 2.	Registered users (RU): all VS’s allowed operations, contribute books, read and rate/review books/reviews, send complaints to SU on book contents.
 3.	Visitors (VS): browse available E-book catalog and the reviews/ratings, apply to be a new RU.
 
