@@ -3,6 +3,8 @@ An application to read, share, upload, and review e-books.
 
 Team Members: Shawn Mathew and Anthony Tan
 
+Main Technologies: Qt and C++
+
 Testing Information:
 
 Users (name/password):
